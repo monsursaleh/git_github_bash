@@ -57,3 +57,9 @@ git remote -v
 # origin https://github.com/user/repo2.git (fetch)
 
 # origin https://github.com/user/repo2.git (push)
+
+-atal: 'orgin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
