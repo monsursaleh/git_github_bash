@@ -2,7 +2,24 @@
 
 ## git pull -> add->commit-> push
 
-## git rebase when
+## fatal: remote cloudbees already exists.
+
+link [here]('https://www.cloudbees.com/blog/remote-origin-already-exists-error')
+Create a new repository online using GitHub or GitLab.
+
+Go to your local repository and remove the existing origin remote.
+
+Add the new online repository as the correct origin remote.
+
+## Push your code to the new origin.
+
+1. Remove the Existing Remote
+
+## git remote remove origin
+
+## git remote set-url origin https://github.com/git/git.git
+
+## git rebase when you pull it and cros orgin problem with local and remote
 
 hint: You have divergent branches and need to specify how to reconcile them.
 hint: You can do so by running one of the following commands sometime before
