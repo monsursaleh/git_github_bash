@@ -77,9 +77,9 @@ git commit -m "Removed folder from repository"
 git push origin master
 
 ## For Making docker container 
-Git remote  remove 
-Git remote -v 
-Git init 
-Rm -rf .git
-Git add origin repo 
+- git remote  remove 
+- git remote -v 
+- git init 
+-rm -rf .git
+-Git add origin repo 
 
